@@ -1,0 +1,1 @@
+In this project i analyzed the US bike share data to come up with insightful information like how many reservations occurred in each month and based on this we could prefer months than other to be ready
